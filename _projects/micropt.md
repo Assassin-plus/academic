@@ -3,9 +3,8 @@ title: "Micro-PT"
 excerpt: "Classic path tracing algorithm implemented in C++ with modern matirial support and multi-threading"
 collection: projects
 ---
-# Micro-PT
 
-分布式路径追踪: Distributed Path Tracing
+[分布式路径追踪: Distributed Path Tracing](https://github.com/Assassin-plus/micropt)
 Developed based on smallpt.
 
 * 反射
