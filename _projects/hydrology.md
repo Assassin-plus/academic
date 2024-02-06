@@ -3,7 +3,10 @@ title: "Auto Hydrology"
 excerpt: "An automated python script to deal with hydrological data"
 collection: projects
 ---
+A python script to deal with hydrological data, including NDVI, soil, and boundary data. The script is developed based on ArcGIS python library for hydrology class research in Tsinghua University.
+All the source code was open-sourced for next year's students.
 [Github Repository](https://github.com/Assassin-plus/Hydrology)
+
 # Usage
 * 创建一个总文件夹作为工作环境。包括:
     * 一个`data`文件夹，用于存放原始数据
