@@ -6,11 +6,8 @@ redirect_from:
   - /pj/
   - /projects.html
 ---
-# Projects
-## Current Projects
+# Current Projects
 I am currently working on the following projects:
 
-## Past Projects
+# Past Projects
 I have worked on the following projects in the past:
-
-### 
