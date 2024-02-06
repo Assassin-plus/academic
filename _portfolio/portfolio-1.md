@@ -1,6 +1,6 @@
 ---
 title: "MikuMikuDance"
-excerpt: "A 3D Animation Software developed by [HiguchiM](https://www.geocities.jp/higuchuu4/index_e.htm) for Vocaloid Character Animation. At the mean time my Enlightment of Computer Graphics and Animation."
+excerpt: "A 3D Animation Software developed as a promotional element for fans of the Sony/Sega Vocaloid product. At the mean time MY Enlightment of Computer Graphics and Animation."
 collection: portfolio
 ---
 # Timeline
