@@ -12,4 +12,5 @@ collection: portfolio
 
 - 2023/11/19: After 3 years, I learned blender and [made a new work](https://www.bilibili.com/video/BV1g94y1H733).
 <iframe src="//player.bilibili.com/player.html?aid=366106882&bvid=BV1g94y1H733&cid=1336251256&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="overflow: auto;text-align: center; margin-left:41%;"> </iframe>
+
 - 2024/01/29-now: [A new work]() still rendering with Blender.
