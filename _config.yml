@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziqi Lu's Academic Homepage"
+title                    : "Ziqi Lu"
 title_separator          : "-"
 name                     : &name "Ziqi Lu"
 description              : &description "A Creator"
